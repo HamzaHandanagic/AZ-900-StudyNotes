@@ -3,17 +3,17 @@
 3 modules:
 
 1. [Describe the core architectural components of Azure](#core-components)
-2. [Describe Azure compute and networking services](#compute-and-network-services)
+2. [Describe Azure compute and networking services](#compute-and-networking-services)
 3. [Describe Azure storage services](#azure-storage-services)
 4. [Describe Azure identity, access, and security](#identity-access-security)
 
-## Describe the core architectural components of Azureg <a name="cloud-computing"></a>
+## Describe the core architectural components of Azure <a name="core-components"></a>
 
 *Objectives*: 
 
 **CONCEPTS AND KEYWORDS:** * *
 
-## Describe Azure compute and networking services <a name="compute-and-network-services"></a>
+## Describe Azure compute and networking services <a name="compute-and-networking-services"></a>
 
 *Objectives*: 
 
