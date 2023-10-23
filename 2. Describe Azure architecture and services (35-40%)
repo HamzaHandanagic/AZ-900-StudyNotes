@@ -9,9 +9,18 @@
 
 ## Describe the core architectural components of Azure <a name="core-components"></a>
 
-*Objectives*: 
+*Objectives*:
 
-**CONCEPTS AND KEYWORDS:** * *
+ - Describe Azure regions, region pairs, and sovereign regions.
+ - Describe Availability Zones.
+ - Describe Azure datacenters.
+ - Describe Azure resources and Resource Groups.
+ - Describe subscriptions.
+ - Describe management groups.
+ - Describe the hierarchy of resource groups, subscriptions, and management groups.
+
+**CONCEPTS AND KEYWORDS:** * Account, Subscription, Core architectural components: 1. physical infrastructure (datacenters, regions, availability zones) 
+2. management infrastructure (Azure resources, resource groups, subscriptions, accounts), *
 
 ## Describe Azure compute and networking services <a name="compute-and-networking-services"></a>
 
