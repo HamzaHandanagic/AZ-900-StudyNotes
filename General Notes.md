@@ -1,1 +1,2 @@
-
+NOTES:
+- Virtual networks - IaaS
