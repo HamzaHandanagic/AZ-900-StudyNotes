@@ -1,7 +1,7 @@
 NOTES:
 
 - Consumption based - Pay as you go
-
+- Not all Azure Regions currently support availability zones.
   
 - Virtual networks, Azure Files, Azure VMs, - IaaS
 - Azure SQL Databases, Azure App Service, Azure Web Apps service, Azure Kubernetes Service - PaaS
