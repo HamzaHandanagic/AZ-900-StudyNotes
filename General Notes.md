@@ -7,6 +7,7 @@ NOTES:
 - Zone redundant - spans through availability zones automatically.
 - Virtual networks, Azure Files, Azure VMs, - IaaS
 - Azure SQL Databases, Azure App Service, Azure Web Apps service, Azure Kubernetes Service - PaaS
+- Availability zones are primarily for VMs, managed disks, load balancers and databases.
   
 <hr>
 
