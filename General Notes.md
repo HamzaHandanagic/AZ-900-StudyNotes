@@ -31,7 +31,7 @@ NOTES:
 - Containers - more about virtualizing the software. We have a registry with images. We take an image and run it in container instance. Container spins up almost instanlty which is not the case with VM.
 - ACI (Azure Container Instances) - run just couple of containers. If i want richer set of capabilities, autoscale, full orchestraction => Kubernetes. I can set up Kubernetes myself on VM but there is AKS (Azure Kubernetes Service). What I see are the nodes, everything else is managed. My containers runs in pods.
 - Azure App Service - web focused workload e.g.: API, WebApp, mobile app...
-- Serverless - Azure Functions and Azure Logic App.
+- Serverless - Azure Functions, Azure Logic App, Event Grid - pushing events to configured destination.
 - Azure Virtual Network is a service that provides the fundamental building block for your private network in Azure. 
 - NSG (Network Security Group) filter network traffic between Azure resources in an Azure virtual network. A network security group contains security rules that allow or deny inbound network traffic to, or outbound network traffic from, several types of Azure resources. For each rule, you can specify source and destination, port, and protocol.
 - Storage Account – every other type of storage builds on top of this. Storage Account lives in specific region. There is redundancy related to it because regions expose idea of availability zones.
