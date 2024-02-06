@@ -8,7 +8,7 @@ NOTES:
 - Virtual networks, Azure Files, Azure VMs, - IaaS
 - Azure SQL Databases, Azure App Service, Azure Web Apps service, Azure Kubernetes Service - PaaS
 - Availability zones are primarily for VMs, managed disks, load balancers and databases.
-  
+- Azure Reservations are pricing option available to reduce costs and making predicting future spending easier.
 <hr>
 
 - Governance hierarchy: Azure AD instance > Root Management Group > Management Groups > Subscriptions > Resource Groups > Resources. Those are called scopes.
